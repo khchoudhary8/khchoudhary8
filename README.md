@@ -12,8 +12,7 @@ Welcome to my profile! I am passionate to be a software engineer with a strong f
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khchoudhary8&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khchoudhary8&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=khchoudhary8&icon=0&color=0)](https://visitcount.itsvg.in)
