@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my profile! I am passionate to be a software engineer with a strong foundation in Mechanical Engineering(Majors) and Computer Science(Minors). With hands-on experience in Android development and the field of Robotics, I am excited about building innovative solutions that solve real-world problems.I would devote myself to an organization which gives me chance to develop and learn new things along with leadership skills.
+Welcome to my profile! I am passionate to be a software engineer with a strong foundation in Mechanical Engineering(Majors) and Computer Science(Minors). With hands-on experience in Android development and the field of Robotics, I am excited about building innovative solutions that solve real-world problems. Currently I am practicing CP and DSA with some backend techs. :-)
 
 
 ## 🌐 Socials:
